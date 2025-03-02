@@ -1,0 +1,8 @@
+streamlit
+qrcode[pil]  # For QR code generation, includes Pillow for image handling
+Pillow  # To ensure PIL (Python Imaging Library) is available
+gspread  # For interacting with Google Sheets
+google-auth  # To authenticate with Google services
+google-auth-oauthlib  # Handles OAuth 2.0 for Google APIs
+google-auth-httplib2  # Enables Google authentication through HTTP
+
